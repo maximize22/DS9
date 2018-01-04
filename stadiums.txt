@@ -1,0 +1,23 @@
+Team,Lat,Long
+"San Jose Earthquakes", 37.351389, -121.925000
+"Houston Dynamo", 29.752200, -95.352400
+"Vancouver Whitecaps FC", 49.276667, -123.111944
+"Toronto Boobooheads", 43.632778, -79.418611
+"Seattle Sounders FC", 47.595200, -122.331600
+"Sporting Kansas City", 39.121800, -94.823700
+"Colorado Rapids",39.805556, -104.891944
+"New England Revolution",42.090944, -71.264344
+"Columbus Crew SC",40.009444, -82.991111
+"Atlanta United FC",33.755361, -84.401192
+"Orlando City SC",28.624397, -81.389036
+"Portland Timbers",45.521389, -122.691667
+"D.C. United",	38.890000, -76.972000
+"New York Red Bulls",	40.736667, -74.150278
+"Real Salt Lake",	40.582923, -111.893156
+"Montreal Impact",	45.563056, -73.552500
+"LA Galaxy",33.864444, -118.261111
+"Philadelphia Union",39.832222, -75.378889
+"Minnesota United FC",44.976000, -93.225000
+"Chicago Fire",41.764722, -87.806111
+"FC Dallas",33.154444, -96.835278
+"New York City FC",40.829167, -73.926389

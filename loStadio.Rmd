@@ -1,0 +1,29 @@
+---
+title: "MLS Stadiums"
+author: "Larry Colucci"
+date: "January 4, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Today's Date is 1/4/2018
+
+I'm making a map of the MLS Stadiums...
+
+```{r echo=TRUE}
+library(leaflet)
+library(magrittr)
+
+df <- read.csv(file='c:/devl/coursera/shiny/stadiums.txt')
+
+
+m <- leaflet(data=df) %>%
+  addTiles() %>%
+  addMarkers(lng =~Long, lat =~Lat, popup=~Team)
+m
+
+```
+
